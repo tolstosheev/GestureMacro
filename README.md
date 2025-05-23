@@ -43,7 +43,7 @@ GestureMacro was created to tackle the problem of tedious keyboard shortcuts. Mo
 -------------------
 
 * `gestures_macros_config.json`: Configuration file for gesture profiles and bindings
-* `1.py`: Main application file
+* `GestureMacro.py`: Main application file
 * `README.md`: This file 😊
 
 **Contributing Guidelines**
