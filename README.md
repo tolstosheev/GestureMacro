@@ -1,4 +1,4 @@
-**GestureMacro**
+**GestureMacro** :bug:
 ================
 
 **A new way to interact with your computer: bind macros to your gestures 🚀**
