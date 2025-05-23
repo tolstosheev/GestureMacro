@@ -1,0 +1,16 @@
+{
+  "11000": {
+    "name": "блокнот",
+    "actions": [
+      "CMD: notepad.exe",
+      "WAIT: 3",
+      "STRING: Tulahack"
+    ]
+  },
+  "11111": {
+    "name": "оитлоиьи",
+    "actions": [
+      "OPEN: youtube.com"
+    ]
+  }
+}
